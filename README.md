@@ -18,6 +18,6 @@
 
 ***Yaptığınızda bot otomatik @Arresya Wh  verip ismini değiştirecektir.***
 
-# Sorun olursa eğer
+# Sorun olursa eğer / If Any Problem:
 
 [Discord Kanalım](https://discord.gg/46fa6GF9uF)
