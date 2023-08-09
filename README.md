@@ -17,3 +17,7 @@
 ***!isim <@kullanıcı_id> Şaziye Taştan***
 
 ***Yaptığınızda bot otomatik @Arresya Wh  verip ismini değiştirecektir.***
+
+# Sorun olursa eğer
+
+[Discord Kanalım](https://discord.gg/46fa6GF9uF)
